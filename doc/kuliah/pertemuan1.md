@@ -1,0 +1,3 @@
+- SSH Key sangat diperlukan untuk menghubungkan antara GitHub dan GitBash
+- Hasil repository dapat di masukan kedalam PC dengan menggunakan GitBash
+- Jika ada prubahan di PC dan akan mengunggahnya ke GitHub dapat menggunakan GitBash dengan perintah commit.
